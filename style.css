@@ -1,0 +1,21 @@
+.aboutmain{
+    background-color: black;
+    color: white; 
+    padding: 3vw 5vw;
+  
+  }
+  .aboutmain h3{
+    text-align: left;
+    font-size: 3vw;
+  
+  }
+  .aboutmain p{
+    text-align: left;
+    font-size: 1.5vw;
+  
+  }
+  .aboutmain h4{
+    text-align: left;
+    font-size: 1.5vw;
+  
+  }
